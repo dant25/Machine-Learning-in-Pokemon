@@ -1,0 +1,6 @@
+Dataset link:
+
+https://www.kaggle.com/sekarmg/pokemon
+
+https://www.kaggle.com/terminus7/pokemon-challenge
+
